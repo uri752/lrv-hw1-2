@@ -1,0 +1,17 @@
+{
+    "name": "uri752/hw1-2",
+    "description": "Домашнее задание по Composer",
+    "autoload": {
+        "psr-4": {
+            "Uri752\\Hw12\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "uri752"
+        }
+    ],
+    "require": {
+        "psr/log": "^3.0"
+    }
+}
